@@ -10,6 +10,7 @@ chmod 755 OpenCommitInGitLab.sh
 To configure SourceTree to use these scripts, within SourceTree choose Preferences... then click the Custom Actions tab.  
 
 For each of the scripts:
+
 1. Click the Add button.
 
 2. In the dialog that appears click the ... button to tell SourceTree the location of the script, and enter a name.
